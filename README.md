@@ -7,7 +7,7 @@
 
 # Most recent project
 
-![](https://ada-ulrik.com/images/discordbot.gif)
+<img src="https://ada-ulrik.com/images/discordbot.gif" alt="gif_bot" width="200x300"/>
 
 **Discord BOT aka. Jørgke** 
 
