@@ -6,8 +6,7 @@
 - 📫 Want to reach me? Contact me via Email! Adaulrik@hotmail.com
 
 # Most recent project
-
-<img src="https://ada-ulrik.com/images/discordbot.gif" alt="gif_bot" width="200" height="300"/>
+![](https://ada-ulrik.com/images/discordbot.gif)
 
 **Discord BOT aka. Jørgke** 
 
