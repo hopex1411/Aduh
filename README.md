@@ -6,9 +6,9 @@
 - 📫 Want to reach me? Contact me via Email! Adaulrik@hotmail.com
 
 # Most recent project
-
+<p>
 <img src="https://ada-ulrik.com/images/discordbot.gif" alt="gif_bot" width="200x300"/>
-
+</p>
 **Discord BOT aka. Jørgke** 
 
 My newest project was creating a Discord BOT that would combine multiple BOT's features into a single BOT, while keeping all the old features and being able to easily add new. It was setup in DigitalOcean on a Fedora server & I used RedBOT, DiscordJS & Discord.py for this project. I could have chosen to make it fully manually using nodeJS, but that would be too big of a task for a single person.
