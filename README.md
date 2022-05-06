@@ -17,12 +17,12 @@ The main goals was to have:
 The BOT can recognize bad behaviour and take action against people breaking the rules, without the need of an actual person.
 
 **Temporary-Voicechannels:** 
-If someone didn't want to communicate in a public voicechat, they automatically get a private-voicechat they "own" until they leave it, and then the voicechat automaticlly gets deleted.
+If someone doesn't want to communicate in a public voicechat, they can join a room and automatically get assigned a private-voicechat they "own" until they leave it, and then the voicechat automaticlly gets deleted.
 
 **Logs over activity:** 
-The bot will create an embedded message in a private channel for the serverowner, where it shows if someone gets muted, banned, kicked, message deleted, and other statitics
+The bot will create an embedded message in a private channel for the serverowner, where it shows if someone gets muted, banned, kicked, a message gets deleted, and other statitics.
 
 **Music Player:** 
-With a single command, the BOT can join a voicechannel and play music with a link the use provide
+With a single command, the BOT can join a voicechannel and play music with a link the user provide.
 
 I combined the names of a few previous bots, Jørgen + Rikke & got the name Jørgke.
