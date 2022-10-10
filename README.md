@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ada
-- 🔧 I’m a data technician focusing on building and maintaining large scale networks and fun small webapps.
+- 🔧 I’m a IT-Proffesional focusing on building and maintaining large scale networks and fun small webapps.
 - 💻 I’m currently messing around with C#, RasperryPI, SQL, Cisco & Draytek hardware, API's and much more.
 - 🔗 You can find my portfolio at https://Ada-ulrik.com
 - 📫 Want to reach me? Contact me via Email! Adaulrik@hotmail.com
