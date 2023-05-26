@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ada
 - 🔧 I’m a IT-Proffesional focusing on building and maintaining large scale networks and fun small webapps.
 - 💻 I’m currently messing around with C#, RasperryPI, SQL, Cisco & Draytek hardware, API's and much more.
-- 🔗 You can find my portfolio at https://Ada-ulrik.com
+- 🔗 You can find my portfolio at https://hireada.xyz
 - 📫 Want to reach me? Contact me via Email! Adaulrik@hotmail.com
 
 # Most recent project
