@@ -2,7 +2,7 @@
 - 🔧 I’m a IT-Proffesional focusing on building and maintaining large scale networks and fun small webapps.
 - 💻 I’m currently messing around with C#, RasperryPI, SQL, Cisco & Draytek hardware, API's and much more.
 - 🔗 You can find my portfolio at https://emelieulrik.com
-- 📫 Want to reach me? Contact me via Email! Adaulrik@hotmail.com
+- 📫 Want to reach me? Contact me via Email! Contactemelieulrik@gmail.com
 
 # Most recent project
 **Discord BOT aka. Jørgke**
